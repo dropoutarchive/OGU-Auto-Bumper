@@ -1,0 +1,7 @@
+[ogu]
+session="ogu_mybbuser"
+
+[post]
+url="https://ogu.gg/Thread-"
+content="resources/templates/default.tfx"
+interval=2100
